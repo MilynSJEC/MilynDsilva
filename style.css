@@ -2,8 +2,12 @@ h1 {
     color: antiquewhite;
 }
 body{
+<<<<<<< HEAD
     color: black;
 }
 p{
     color: aliceblue;
+=======
+    color: red;
+>>>>>>> parent of 26f24bb (changed the body color)
 }
